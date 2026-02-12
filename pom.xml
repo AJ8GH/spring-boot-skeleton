@@ -92,7 +92,7 @@
     <testcontainers.postgresql.version>1.18.0</testcontainers.postgresql.version>
     <swagger.annotations.version>2.2.14</swagger.annotations.version>
     <testcontainers.postgresql.version>1.18.3</testcontainers.postgresql.version>
-    <wiremock.version>2.27.2</wiremock.version>
+    <wiremock.version>3.0.1</wiremock.version>
   </properties>
 
   <repositories>
